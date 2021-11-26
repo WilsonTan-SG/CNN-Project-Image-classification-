@@ -1,2 +1,0 @@
-
-CNN Project (Image Classification)
